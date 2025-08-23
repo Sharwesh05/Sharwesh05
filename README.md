@@ -25,7 +25,6 @@ I’m a passionate **Full-Stack Developer** with a strong foundation in software
 
 - **CTF & Pentesting:** Burp Suite, Metasploit, Wireshark, Nmap  
 - **Reverse Engineering & Analysis:** Ghidra, IDA Free, Radare2, GDB  
-- **Forensics & Monitoring:** Volatility, Autopsy, Sysinternals  
 - **Other Skills:** Threat modeling, Capture the Flag challenges, exploit research  
 
 ---
